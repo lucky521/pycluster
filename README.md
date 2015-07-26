@@ -13,10 +13,14 @@ skilearn
 7. AffinityPropagation
 
 
-## Input
-vectors
+## Input Format
+one vector for one line
 number of vectors
 number of cluster's 
+
+## Output Format
+%d(%d) - 
+[Num. of vector], [Num. of cluster]
 
 
 ## Reference
