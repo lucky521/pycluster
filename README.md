@@ -3,7 +3,7 @@ numpy
 scipy
 skilearn
 
-## Algorithm
+## Clustering Algorithm
 1. KMeans
 2. MeanShift
 3. Agglomerative
