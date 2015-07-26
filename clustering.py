@@ -1,5 +1,5 @@
 # --coding=utf8-- 
-#Algorithm = 1
+# TODO:input 
 cluster_num = 2
 v_num = 60
 filename = "vector"+ str(v_num) +".txt"
