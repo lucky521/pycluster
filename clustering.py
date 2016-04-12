@@ -9,9 +9,8 @@ import numpy
 from numpy.random import random
 import scipy
 import sklearn
-from sklearn.cluster import KMeans
-from sklearn.cluster import AgglomerativeClustering
 ########################################################################
+# compute similarity of two vectors
 def get_distance(v1, v2):
 	dis = 0.0
 	if v1 == v2:
